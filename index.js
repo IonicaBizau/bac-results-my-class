@@ -31,6 +31,21 @@ var surnames = [
     "Hălbac"
 ];
 
+function replaceDiacritics(i) {
+    return i
+        .replace("ă", "a")
+        .replace("â", "a")
+        .replace("î", "i")
+        .replace("ț", "t")
+        .replace("ș", "s")
+        .replace("Ă", "A")
+        .replace("Â", "A")
+        .replace("Î", "I")
+        .replace("Ț", "T")
+        .replace("Ș", "S")
+        ;
+}
+
 MongoClient.connect(MONGO_URI, function(err, db) {
     if (err) { throw err; }
 
@@ -47,7 +62,7 @@ MongoClient.connect(MONGO_URI, function(err, db) {
                 finalData.push(obj);
                 if (++complete === surnames.length) {
                     finalData.sort(function (a, b) {
-                        return a.name > b.name ? 1 : -1;
+                        return replaceDiacritics(a.name) > replaceDiacritics(b.name) ? 1 : -1;
                     });
                     console.log(Mustache.render(template, {
                         results: finalData
