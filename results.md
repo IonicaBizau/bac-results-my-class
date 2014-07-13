@@ -228,170 +228,126 @@ VINTILĂ D.G VLAD ALEXANDRU | Utilizator experimentat | 9 | NaN | 9
                 <td>1.</td>
                 <td>BANCIU A ANDREI ALEXANDRU</td>
                 <td>6.7</td>
-                <td>
-                </td>
                 <td>6.7</td>
             </tr>
             <tr>
                 <td>2.</td>
                 <td>BIZĂU V IOAN</td>
                 <td>9.7</td>
-                <td>
-                </td>
                 <td>9.7</td>
             </tr>
             <tr>
                 <td>3.</td>
                 <td>BOGAN P SILVIU</td>
                 <td>7.05</td>
-                <td>
-                    6.45
-                </td>
                 <td>6.45</td>
             </tr>
             <tr>
                 <td>4.</td>
                 <td>BOGDAN D ROMELIA-DORINA</td>
                 <td>8.3</td>
-                <td>
-                </td>
                 <td>8.3</td>
             </tr>
             <tr>
                 <td>5.</td>
                 <td>BOTA P GABRIEL VASILE</td>
                 <td>6</td>
-                <td>
-                </td>
                 <td>6</td>
             </tr>
             <tr>
                 <td>6.</td>
                 <td>BULC I FLORIN-PAUL</td>
                 <td>7</td>
-                <td>
-                </td>
                 <td>7</td>
             </tr>
             <tr>
                 <td>7.</td>
                 <td>CÎRLEA M FLAVIUS-TRAIAN</td>
                 <td>7.2</td>
-                <td>
-                </td>
                 <td>7.2</td>
             </tr>
             <tr>
                 <td>8.</td>
                 <td>DAGĂU D.M ROBERT-ALEXANDRU</td>
                 <td>8.3</td>
-                <td>
-                </td>
                 <td>8.3</td>
             </tr>
             <tr>
                 <td>9.</td>
                 <td>DRĂGOI D ANA-MARIA-NICOLETA</td>
                 <td>8.3</td>
-                <td>
-                </td>
                 <td>8.3</td>
             </tr>
             <tr>
                 <td>10.</td>
                 <td>GRUIE V DENISA-IOANA</td>
                 <td>6.9</td>
-                <td>
-                </td>
                 <td>6.9</td>
             </tr>
             <tr>
                 <td>11.</td>
                 <td>GURSCĂ M VLAD</td>
                 <td>8.3</td>
-                <td>
-                </td>
                 <td>8.3</td>
             </tr>
             <tr>
                 <td>12.</td>
                 <td>HĂLBAC D.I IOANA SILVIA</td>
                 <td>6.2</td>
-                <td>
-                </td>
                 <td>6.2</td>
             </tr>
             <tr>
                 <td>13.</td>
                 <td>ILE G MADALINA GEORGIANA</td>
                 <td>6.6</td>
-                <td>
-                </td>
                 <td>6.6</td>
             </tr>
             <tr>
                 <td>14.</td>
                 <td>JURCA T ANDREEA-TEODORA</td>
                 <td>9.3</td>
-                <td>
-                </td>
                 <td>9.3</td>
             </tr>
             <tr>
                 <td>15.</td>
                 <td>MĂRGINEAN P ROBERT</td>
                 <td>6.5</td>
-                <td>
-                </td>
                 <td>6.5</td>
             </tr>
             <tr>
                 <td>16.</td>
                 <td>MATIU R.V IULIA DIANA</td>
                 <td>6.6</td>
-                <td>
-                    7.3
-                </td>
                 <td>7.3</td>
             </tr>
             <tr>
                 <td>17.</td>
                 <td>MIKLO S EDWARD ROBERT</td>
                 <td>7.35</td>
-                <td>
-                </td>
                 <td>7.35</td>
             </tr>
             <tr>
                 <td>18.</td>
                 <td>PANTIȘ  I ȘERBAN-DORIN</td>
                 <td>8.45</td>
-                <td>
-                </td>
                 <td>8.45</td>
             </tr>
             <tr>
                 <td>19.</td>
                 <td>ȚIRBAN A GIULIA-MARIA</td>
                 <td>8.5</td>
-                <td>
-                </td>
                 <td>8.5</td>
             </tr>
             <tr>
                 <td>20.</td>
                 <td>TURLE G IULIA MARIA</td>
                 <td>9.4</td>
-                <td>
-                </td>
                 <td>9.4</td>
             </tr>
             <tr>
                 <td>21.</td>
                 <td>VINTILĂ D.G VLAD ALEXANDRU</td>
                 <td>9</td>
-                <td>
-                </td>
                 <td>9</td>
             </tr>
     </tbody>

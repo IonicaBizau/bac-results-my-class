@@ -1701,1482 +1701,1092 @@ ZĂVOIAN I ANDREEA-DENISA | Utilizator experimentat | 7 | NaN | 7
                 <td>.</td>
                 <td>ABRAHAM C BRIGITTA</td>
                 <td>7.2</td>
-                <td>
-                </td>
                 <td>7.2</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>ALECU M DENIS-ALEXANDRU</td>
                 <td>6.3</td>
-                <td>
-                </td>
                 <td>6.3</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>ANTOK C BRIGITTA</td>
                 <td>6.4</td>
-                <td>
-                </td>
                 <td>6.4</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>ARDELEAN M.V GEANINA MIHAELA</td>
                 <td>6.5</td>
-                <td>
-                </td>
                 <td>6.5</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>AVRAM I GEORGE-VLAD</td>
                 <td>7</td>
-                <td>
-                    7.8
-                </td>
                 <td>7.8</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>AVRAM I SONIA DANIELA</td>
                 <td>5.4</td>
-                <td>
-                </td>
                 <td>5.4</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>BALACIU V.D RENATA ANDRADA</td>
                 <td>5.3</td>
-                <td>
-                </td>
                 <td>5.3</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>BANCIU A ANDREI ALEXANDRU</td>
                 <td>6.7</td>
-                <td>
-                </td>
                 <td>6.7</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>BANDA I LARISA LAVINIA</td>
                 <td>5</td>
-                <td>
-                </td>
                 <td>5</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>BAR I IONUȚ ANDREI</td>
                 <td>4.2</td>
-                <td>
-                    4.1
-                </td>
                 <td>4.2</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>BAR M MARCELA-ANDREEA</td>
                 <td>8.8</td>
-                <td>
-                </td>
                 <td>8.8</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>BARABAȘ O BENIAMIN-OVIDIU</td>
                 <td>NaN</td>
-                <td>
-                </td>
                 <td>NaN</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>BEGHER V.O SIMINA-ROXANA</td>
                 <td>9.1</td>
-                <td>
-                </td>
                 <td>9.1</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>BEJAN C.V EMMA</td>
                 <td>7</td>
-                <td>
-                </td>
                 <td>7</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>BENEA D.G ALINA-LIGIA-DENISA</td>
                 <td>7.2</td>
-                <td>
-                </td>
                 <td>7.2</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>BENEDEK I HENRIETTA</td>
                 <td>8.75</td>
-                <td>
-                    6.85
-                </td>
                 <td>6.85</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>BENEDEK I.O JOHANNA</td>
                 <td>5.2</td>
-                <td>
-                </td>
                 <td>5.2</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>BÎRZ A.A ALEXANDRA-GABRIELA</td>
                 <td>8.6</td>
-                <td>
-                </td>
                 <td>8.6</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>BITEA O.M RALUCA MĂDĂLINA</td>
                 <td>6</td>
-                <td>
-                </td>
                 <td>6</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>BIZĂU V IOAN</td>
                 <td>9.7</td>
-                <td>
-                </td>
                 <td>9.7</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>BOGAN P SILVIU</td>
                 <td>7.05</td>
-                <td>
-                    6.45
-                </td>
                 <td>6.45</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>BOGDAN D ROMELIA-DORINA</td>
                 <td>8.3</td>
-                <td>
-                </td>
                 <td>8.3</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>BOGDAN G CRISTINA FLORINA</td>
                 <td>8.4</td>
-                <td>
-                </td>
                 <td>8.4</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>BOGDAN I MARIA-FLAVIA</td>
                 <td>5</td>
-                <td>
-                </td>
                 <td>5</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>BOLOCA C.D DANIEL</td>
                 <td>3.8</td>
-                <td>
-                </td>
                 <td>3.8</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>BOLOJAN P BENIAMIN</td>
                 <td>6.1</td>
-                <td>
-                </td>
                 <td>6.1</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>BONCHIȘ A AURORA DENISA</td>
                 <td>8.5</td>
-                <td>
-                </td>
                 <td>8.5</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>BONCHIȘ C ȘERBAN-IONUȚ</td>
                 <td>5.9</td>
-                <td>
-                </td>
                 <td>5.9</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>BORHA N.F ANDREI-ȘTEFAN</td>
                 <td>5</td>
-                <td>
-                </td>
                 <td>5</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>BORTIȘ G ROMINA MARINELA</td>
                 <td>6.75</td>
-                <td>
-                </td>
                 <td>6.75</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>BOTA P GABRIEL VASILE</td>
                 <td>6</td>
-                <td>
-                </td>
                 <td>6</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>BUCUR I.C BOGDAN-VLĂDUȚ</td>
                 <td>9.4</td>
-                <td>
-                </td>
                 <td>9.4</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>BUDA B.L IOANA MIRELA</td>
                 <td>5.4</td>
-                <td>
-                </td>
                 <td>5.4</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>BUDĂU I CRISTIAN VLĂDUȚ</td>
                 <td>2.8</td>
-                <td>
-                </td>
                 <td>2.8</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>BULC I FLORIN-PAUL</td>
                 <td>7</td>
-                <td>
-                </td>
                 <td>7</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>BURCA I.G ALEXANDRA GABRIELA</td>
                 <td>6.8</td>
-                <td>
-                </td>
                 <td>6.8</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>BURESCU S IOANA SIMONA</td>
                 <td>6.5</td>
-                <td>
-                </td>
                 <td>6.5</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>BURTIC I.G BENIAMIN-BOGDAN</td>
                 <td>4.3</td>
-                <td>
-                    4.5
-                </td>
                 <td>4.3</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>BURTIC V VALENTINA-ALEXANDRA</td>
                 <td>5.5</td>
-                <td>
-                </td>
                 <td>5.5</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>CAP D DAVID ONISIM</td>
                 <td>8.1</td>
-                <td>
-                </td>
                 <td>8.1</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>CHINDE  O ȘERBAN MARIAN</td>
                 <td>6</td>
-                <td>
-                </td>
                 <td>6</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>CÎRLEA M FLAVIUS-TRAIAN</td>
                 <td>7.2</td>
-                <td>
-                </td>
                 <td>7.2</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>CIUHANDU F FLORENTINA</td>
                 <td>7.7</td>
-                <td>
-                    8.85
-                </td>
                 <td>8.85</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>CIUPA G.D LIGIA-ADELA</td>
                 <td>9.4</td>
-                <td>
-                </td>
                 <td>9.4</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>CONDOROȘ T.I CĂTĂLIN-GEORGE</td>
                 <td>6.6</td>
-                <td>
-                </td>
                 <td>6.6</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>COPĂCIAN D.G DANA-IOANA</td>
                 <td>6.35</td>
-                <td>
-                </td>
                 <td>6.35</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>COPIL T TEODOR-FLORIN</td>
                 <td>8.2</td>
-                <td>
-                </td>
                 <td>8.2</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>CORNEA M.D AMANDA-RAFAELA</td>
                 <td>4.5</td>
-                <td>
-                    4.65
-                </td>
                 <td>4.65</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>COSĂU L MĂDĂLINA IOANA</td>
                 <td>8.2</td>
-                <td>
-                    8.8
-                </td>
                 <td>8.8</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>COTRO F BENIAMIN-ADRIAN</td>
                 <td>5.9</td>
-                <td>
-                </td>
                 <td>5.9</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>CREȚ C DIANA-CRISTINA</td>
                 <td>8.7</td>
-                <td>
-                </td>
                 <td>8.7</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>CRISTE I RALUCA-IOANA</td>
                 <td>8.15</td>
-                <td>
-                </td>
                 <td>8.15</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>CRISTE V ALEXANDRA FLORINA</td>
                 <td>8.3</td>
-                <td>
-                </td>
                 <td>8.3</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>CUCI N FLORIN IONUȚ</td>
                 <td>5.5</td>
-                <td>
-                    5
-                </td>
                 <td>5</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>CUCIULA I DACIANA-MARIANA</td>
                 <td>5.3</td>
-                <td>
-                    5.2
-                </td>
                 <td>5.3</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>DAGĂU D.M ROBERT-ALEXANDRU</td>
                 <td>8.3</td>
-                <td>
-                </td>
                 <td>8.3</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>DRĂGOI D ANA-MARIA-NICOLETA</td>
                 <td>8.3</td>
-                <td>
-                </td>
                 <td>8.3</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>DRINGO I IONICĂ-EMANUEL</td>
                 <td>7.1</td>
-                <td>
-                </td>
                 <td>7.1</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>DUMITRAȘ  G DELIA RAMONA</td>
                 <td>6.5</td>
-                <td>
-                </td>
                 <td>6.5</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>EGYED R.I HENRIETTA</td>
                 <td>8.7</td>
-                <td>
-                </td>
                 <td>8.7</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>EGYED T ORSOLYA</td>
                 <td>9.2</td>
-                <td>
-                </td>
                 <td>9.2</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>FEIER P.E EMIL FLORIN</td>
                 <td>3.5</td>
-                <td>
-                </td>
                 <td>3.5</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>FENESI D RUTH-BEATA</td>
                 <td>8.9</td>
-                <td>
-                </td>
                 <td>8.9</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>FITER A AMALIA-NICOLETA</td>
                 <td>7.4</td>
-                <td>
-                </td>
                 <td>7.4</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>FLIȚA D CĂTĂLIN-ADRIAN</td>
                 <td>7.5</td>
-                <td>
-                </td>
                 <td>7.5</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>FLONTA A DIANA FLORENTINA</td>
                 <td>4.2</td>
-                <td>
-                    3.9
-                </td>
                 <td>4.2</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>FLONTA I OLIMPIA IOANA</td>
                 <td>3.7</td>
-                <td>
-                    3.75
-                </td>
                 <td>3.7</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>FOGHIȘ-GOINA I DĂNUȚ FLORIN</td>
                 <td>4</td>
-                <td>
-                    4.3
-                </td>
                 <td>4</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>GABOR A KLEMENTINA</td>
                 <td>5.8</td>
-                <td>
-                </td>
                 <td>5.8</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>GAICA L MĂDĂLIN-IONEL</td>
                 <td>5</td>
-                <td>
-                </td>
                 <td>5</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>GHIȚĂ I DORU MĂDĂLIN</td>
                 <td>5.4</td>
-                <td>
-                </td>
                 <td>5.4</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>GHIȚĂ I.P IOANA-FLORINA</td>
                 <td>6.3</td>
-                <td>
-                </td>
                 <td>6.3</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>GHIȚĂ N. FLORICA-LOREDANA</td>
                 <td>7.85</td>
-                <td>
-                    9.2
-                </td>
                 <td>9.2</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>GOILEAN V EMILIA ANDRADA</td>
                 <td>5.8</td>
-                <td>
-                </td>
                 <td>5.8</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>GOILEAN V ROBERT IONUȚ</td>
                 <td>5</td>
-                <td>
-                </td>
                 <td>5</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>GROZA U.F FLORINA-REBECA</td>
                 <td>6</td>
-                <td>
-                </td>
                 <td>6</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>GRUIE V DENISA-IOANA</td>
                 <td>6.9</td>
-                <td>
-                </td>
                 <td>6.9</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>GURSCĂ M VLAD</td>
                 <td>8.3</td>
-                <td>
-                </td>
                 <td>8.3</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>HĂLBAC D.I IOANA SILVIA</td>
                 <td>6.2</td>
-                <td>
-                </td>
                 <td>6.2</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>HEREDEA I.D RAUL-DANIEL</td>
                 <td>6.2</td>
-                <td>
-                </td>
                 <td>6.2</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>HINȚ  D.I RALUCA DENISA</td>
                 <td>5.5</td>
-                <td>
-                </td>
                 <td>5.5</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>HORA G CĂTĂLIN IONUȚ</td>
                 <td>6</td>
-                <td>
-                </td>
                 <td>6</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>IENCIU F.V MELANIA FLORINA</td>
                 <td>7.35</td>
-                <td>
-                </td>
                 <td>7.35</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>IGA V REBECA ROXANA</td>
                 <td>6.9</td>
-                <td>
-                </td>
                 <td>6.9</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>IGA-POPA V VASILE VIOREL</td>
                 <td>6</td>
-                <td>
-                </td>
                 <td>6</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>ILE G KLAUDIA</td>
                 <td>5.3</td>
-                <td>
-                </td>
                 <td>5.3</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>ILE G MADALINA GEORGIANA</td>
                 <td>6.6</td>
-                <td>
-                </td>
                 <td>6.6</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>ILE V.A BIANCA MARIA</td>
                 <td>5.9</td>
-                <td>
-                </td>
                 <td>5.9</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>ILLE S MĂDĂLINA SORANA</td>
                 <td>5</td>
-                <td>
-                </td>
                 <td>5</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>ILONAȘ  M IOANA-MĂRIOARA</td>
                 <td>5.05</td>
-                <td>
-                </td>
                 <td>5.05</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>ISAI V.I CRISTINA-ANCUȚA</td>
                 <td>5.3</td>
-                <td>
-                </td>
                 <td>5.3</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>JOVREA D.C LARISA-FABIANA</td>
                 <td>6.05</td>
-                <td>
-                </td>
                 <td>6.05</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>JULA G PAUL EUSEBIU</td>
                 <td>7.55</td>
-                <td>
-                </td>
                 <td>7.55</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>JULA-BOTA I PAULA-IONELA</td>
                 <td>6.2</td>
-                <td>
-                </td>
                 <td>6.2</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>JUNC T.D IOANA GEORGIANA</td>
                 <td>5.6</td>
-                <td>
-                </td>
                 <td>5.6</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>JURCA C DAVID MIREL</td>
                 <td>4.1</td>
-                <td>
-                    4.5
-                </td>
                 <td>4.1</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>JURCA S STELIANA LĂCRIMIOARA</td>
                 <td>5.8</td>
-                <td>
-                </td>
                 <td>5.8</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>JURCA T ANDREEA-TEODORA</td>
                 <td>9.3</td>
-                <td>
-                </td>
                 <td>9.3</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>KESTHA A HANEM VERA</td>
                 <td>7.5</td>
-                <td>
-                </td>
                 <td>7.5</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>KOVACS Z IZABELLA</td>
                 <td>7.05</td>
-                <td>
-                </td>
                 <td>7.05</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>KRISTO T.L DAVID SEBASTIAN</td>
                 <td>5</td>
-                <td>
-                </td>
                 <td>5</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>KURUȚ A BIANKA-ERZSEBET</td>
                 <td>5.5</td>
-                <td>
-                </td>
                 <td>5.5</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>LABOȘ O ANDRA GEORGIANA</td>
                 <td>5.9</td>
-                <td>
-                </td>
                 <td>5.9</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>LAZA I FLORICA-ANCA</td>
                 <td>3.75</td>
-                <td>
-                </td>
                 <td>3.75</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>LAZA V ALEXANDRA</td>
                 <td>8.6</td>
-                <td>
-                    8
-                </td>
                 <td>8</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>LIBER A.G ALEXANDRU-SAMIR</td>
                 <td>5.6</td>
-                <td>
-                </td>
                 <td>5.6</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>LINGURAR I IULIA-ISARA</td>
                 <td>2.8</td>
-                <td>
-                </td>
                 <td>2.8</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>LUCA D ANDREI-FLORIN</td>
                 <td>6.65</td>
-                <td>
-                </td>
                 <td>6.65</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>LUCUȚA T.V ELENA-IOANA</td>
                 <td>3.4</td>
-                <td>
-                </td>
                 <td>3.4</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>MACOVEI A MIHAI-EMANUEL</td>
                 <td>5.05</td>
-                <td>
-                </td>
                 <td>5.05</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>MĂDUȚA I LAURA-CRISTINA</td>
                 <td>9.2</td>
-                <td>
-                </td>
                 <td>9.2</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>MANCE V ALIN ROBERT</td>
                 <td>1</td>
-                <td>
-                </td>
                 <td>1</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>MANCE V DANIELA IOANA</td>
                 <td>3.6</td>
-                <td>
-                    3.2
-                </td>
                 <td>3.6</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>MÂNDRU N IONUȚ-ALEXANDRU</td>
                 <td>6.2</td>
-                <td>
-                </td>
                 <td>6.2</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>MĂRGINEAN P ROBERT</td>
                 <td>6.5</td>
-                <td>
-                </td>
                 <td>6.5</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>MATEI D SERGIU-DORIN</td>
                 <td>8.15</td>
-                <td>
-                </td>
                 <td>8.15</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>MATEI G GEORGE-CLAUDIU</td>
                 <td>7.6</td>
-                <td>
-                </td>
                 <td>7.6</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>MATICA I.M IOANA FLORINA</td>
                 <td>7.7</td>
-                <td>
-                </td>
                 <td>7.7</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>MATIU R.V IULIA DIANA</td>
                 <td>6.6</td>
-                <td>
-                    7.3
-                </td>
                 <td>7.3</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>MESZAROS N ZOLTAN</td>
                 <td>NaN</td>
-                <td>
-                </td>
                 <td>NaN</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>MICULESCU I.M DACIANA-MARIA</td>
                 <td>6.4</td>
-                <td>
-                </td>
                 <td>6.4</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>MIKLO F ROBERT</td>
                 <td>5.35</td>
-                <td>
-                    5
-                </td>
                 <td>5.35</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>MIKLO P BEATA</td>
                 <td>7.1</td>
-                <td>
-                </td>
                 <td>7.1</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>MIKLO S EDWARD ROBERT</td>
                 <td>7.35</td>
-                <td>
-                </td>
                 <td>7.35</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>MITRAN A ANDREI-FLORIN</td>
                 <td>3.3</td>
-                <td>
-                    3.7
-                </td>
                 <td>3.3</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>MONENCIU V MIRELA-CRINA</td>
                 <td>3.8</td>
-                <td>
-                    3.85
-                </td>
                 <td>3.8</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>MORAR V MARIANA ANDREEA</td>
                 <td>3.9</td>
-                <td>
-                </td>
                 <td>3.9</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>MORGOVAN N FLORINA CAMELIA</td>
                 <td>7.1</td>
-                <td>
-                </td>
                 <td>7.1</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>MORTAN I.C ELIZA-XENIA</td>
                 <td>6.45</td>
-                <td>
-                </td>
                 <td>6.45</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>NISTOR D.R REMUS</td>
                 <td>5.1</td>
-                <td>
-                </td>
                 <td>5.1</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>PANTEA L.I IOANA-FLORINA</td>
                 <td>8</td>
-                <td>
-                </td>
                 <td>8</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>PANTEA L.I LUCIA-GEORGIANA</td>
                 <td>9.1</td>
-                <td>
-                </td>
                 <td>9.1</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>PANTIȘ  I ȘERBAN-DORIN</td>
                 <td>8.45</td>
-                <td>
-                </td>
                 <td>8.45</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>PAUL P ELISABETA IULIANA</td>
                 <td>5</td>
-                <td>
-                </td>
                 <td>5</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>PETRIȚA F BOGDAN NICOLAE</td>
                 <td>5</td>
-                <td>
-                    5.95
-                </td>
                 <td>5.95</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>PITUȚ V.R RAUL ALIN</td>
                 <td>7.2</td>
-                <td>
-                </td>
                 <td>7.2</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>POP I DANIEL-SERGIU</td>
                 <td>7.7</td>
-                <td>
-                </td>
                 <td>7.7</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>POPA T PAUL-VLAD</td>
                 <td>5</td>
-                <td>
-                </td>
                 <td>5</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>POPA V ROXANA ANDREEA GIULIA</td>
                 <td>8.3</td>
-                <td>
-                </td>
                 <td>8.3</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>PUȘCĂU A IOANA-VALENTINA</td>
                 <td>7.8</td>
-                <td>
-                </td>
                 <td>7.8</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>ROGOJAN G.V REBECA-CLAUDIA</td>
                 <td>6.7</td>
-                <td>
-                </td>
                 <td>6.7</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>ROMAN D.G GHEORGHE-ALEXANDRU</td>
                 <td>8.2</td>
-                <td>
-                </td>
                 <td>8.2</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>ROMAN M.C GEORGE-VALENTIN</td>
                 <td>5</td>
-                <td>
-                </td>
                 <td>5</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>SALA G NATALIA-ROZALIA</td>
                 <td>6.6</td>
-                <td>
-                </td>
                 <td>6.6</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>SALA M.D RĂZVAN DĂNUȚ</td>
                 <td>5</td>
-                <td>
-                </td>
                 <td>5</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>SANDU D DANIELA-OANA</td>
                 <td>7.3</td>
-                <td>
-                </td>
                 <td>7.3</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>SĂRAC T ADRIAN CLAUDIU</td>
                 <td>5.3</td>
-                <td>
-                </td>
                 <td>5.3</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>SICOE I.M CĂTĂLIN-IONUȚ</td>
                 <td>5.1</td>
-                <td>
-                </td>
                 <td>5.1</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>SÎNT I.M DIANA-ANCA</td>
                 <td>7.5</td>
-                <td>
-                </td>
                 <td>7.5</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>SÎRB M.N ANDREI-IONEL</td>
                 <td>6.6</td>
-                <td>
-                </td>
                 <td>6.6</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>ȘORA S.V RAUL-ALEXANDRU</td>
                 <td>8.6</td>
-                <td>
-                </td>
                 <td>8.6</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>ȘTIUBE N SORIN-ADRIAN</td>
                 <td>3.4</td>
-                <td>
-                    3.85
-                </td>
                 <td>3.4</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>SZATMARI F ESZTER-HAJNALKA</td>
                 <td>7.8</td>
-                <td>
-                </td>
                 <td>7.8</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>TAICHIȘ C.P FLORINA-LIANA</td>
                 <td>6.2</td>
-                <td>
-                    7.05
-                </td>
                 <td>7.05</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>TAICHIȘ I.V IOANA DENISA</td>
                 <td>9.65</td>
-                <td>
-                </td>
                 <td>9.65</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>TENKO F IOAN-ȘTEFAN</td>
                 <td>5</td>
-                <td>
-                </td>
                 <td>5</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>TEREBENȚ  T.I ANDREEA-IONELA</td>
                 <td>7.6</td>
-                <td>
-                </td>
                 <td>7.6</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>TEREBENȚ T.I NADINA IOANA</td>
                 <td>5.8</td>
-                <td>
-                    6.45
-                </td>
                 <td>6.45</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>ȚIRBAN A GIULIA-MARIA</td>
                 <td>8.5</td>
-                <td>
-                </td>
                 <td>8.5</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>ȚIRBAN L LAURA LIANA</td>
                 <td>8.4</td>
-                <td>
-                </td>
                 <td>8.4</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>TODA  I IOAN-FLORENTIN GABRIEL</td>
                 <td>5.7</td>
-                <td>
-                </td>
                 <td>5.7</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>TODA I LARISA-FLORINA</td>
                 <td>8.25</td>
-                <td>
-                </td>
                 <td>8.25</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>TODICA E REBECA</td>
                 <td>7</td>
-                <td>
-                </td>
                 <td>7</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>TODINCA M.N IONUȚ-MIRCEA</td>
                 <td>5.8</td>
-                <td>
-                </td>
                 <td>5.8</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>TOMA D.O ANDREI-NICOLAE</td>
                 <td>5</td>
-                <td>
-                </td>
                 <td>5</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>TOMA I MIRABELA-GINA</td>
                 <td>9.3</td>
-                <td>
-                </td>
                 <td>9.3</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>TOMA V ANDREEA MARIA</td>
                 <td>8.1</td>
-                <td>
-                </td>
                 <td>8.1</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>TONCA D.P MĂDĂLIN-NICOLAE</td>
                 <td>6.7</td>
-                <td>
-                </td>
                 <td>6.7</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>TRIP F AMALIA FLORINA</td>
                 <td>NaN</td>
-                <td>
-                </td>
                 <td>NaN</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>TURCUȘ D.D LILIANA CRISTINA</td>
                 <td>6.55</td>
-                <td>
-                </td>
                 <td>6.55</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>TURLE G IULIA MARIA</td>
                 <td>9.4</td>
-                <td>
-                </td>
                 <td>9.4</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>UȘVAT  F FLORINA-CRINA</td>
                 <td>8.3</td>
-                <td>
-                </td>
                 <td>8.3</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>UȘVAT V ANCA-MĂDĂLINA</td>
                 <td>8.5</td>
-                <td>
-                </td>
                 <td>8.5</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>VAIDA T ADRIAN CLAUDIU</td>
                 <td>4</td>
-                <td>
-                    3.6
-                </td>
                 <td>4</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>VAIDA T VALERIU NICOLAE</td>
                 <td>5.1</td>
-                <td>
-                </td>
                 <td>5.1</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>VID G ROXANA-MĂDĂLINA</td>
                 <td>7.8</td>
-                <td>
-                </td>
                 <td>7.8</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>VIDICAN M.I IOANA-RALUCA</td>
                 <td>6.85</td>
-                <td>
-                </td>
                 <td>6.85</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>VILIGA C DANIELA</td>
                 <td>5.45</td>
-                <td>
-                </td>
                 <td>5.45</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>VILIGA V MIHAELA-GABRIELA</td>
                 <td>6.4</td>
-                <td>
-                </td>
                 <td>6.4</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>VINTILĂ D.G VLAD ALEXANDRU</td>
                 <td>9</td>
-                <td>
-                </td>
                 <td>9</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>VURA M RUDOLF</td>
                 <td>4</td>
-                <td>
-                </td>
                 <td>4</td>
             </tr>
             <tr>
                 <td>.</td>
                 <td>ZĂVOIAN I ANDREEA-DENISA</td>
                 <td>7</td>
-                <td>
-                </td>
                 <td>7</td>
             </tr>
     </tbody>
