@@ -43,147 +43,170 @@ VINTILĂ D.G VLAD ALEXANDRU | Utilizator experimentat | 9 | NaN | 9
                 <td>BANCIU A ANDREI ALEXANDRU</td>
                 <td>Utilizator experimentat</td>
                 <td>6.7</td>
-                <td>NaN</td>
+                <td>
+                </td>
                 <td>6.7</td>
             </tr>
             <tr>
                 <td>BIZĂU V IOAN</td>
                 <td>Utilizator experimentat</td>
                 <td>9.7</td>
-                <td>NaN</td>
+                <td>
+                </td>
                 <td>9.7</td>
             </tr>
             <tr>
                 <td>BOGAN P SILVIU</td>
                 <td>Utilizator experimentat</td>
                 <td>7.05</td>
-                <td>6.45</td>
+                <td>
+                    6.45
+                </td>
                 <td>6.45</td>
             </tr>
             <tr>
                 <td>BOGDAN D ROMELIA-DORINA</td>
                 <td>Utilizator experimentat</td>
                 <td>8.3</td>
-                <td>NaN</td>
+                <td>
+                </td>
                 <td>8.3</td>
             </tr>
             <tr>
                 <td>BOTA P GABRIEL VASILE</td>
                 <td>Utilizator avansat</td>
                 <td>6</td>
-                <td>NaN</td>
+                <td>
+                </td>
                 <td>6</td>
             </tr>
             <tr>
                 <td>BULC I FLORIN-PAUL</td>
                 <td>Utilizator avansat</td>
                 <td>7</td>
-                <td>NaN</td>
+                <td>
+                </td>
                 <td>7</td>
             </tr>
             <tr>
                 <td>CÎRLEA M FLAVIUS-TRAIAN</td>
                 <td>Utilizator avansat</td>
                 <td>7.2</td>
-                <td>NaN</td>
+                <td>
+                </td>
                 <td>7.2</td>
             </tr>
             <tr>
                 <td>DAGĂU D.M ROBERT-ALEXANDRU</td>
                 <td>Utilizator experimentat</td>
                 <td>8.3</td>
-                <td>NaN</td>
+                <td>
+                </td>
                 <td>8.3</td>
             </tr>
             <tr>
                 <td>DRĂGOI D ANA-MARIA-NICOLETA</td>
                 <td>Utilizator experimentat</td>
                 <td>8.3</td>
-                <td>NaN</td>
+                <td>
+                </td>
                 <td>8.3</td>
             </tr>
             <tr>
                 <td>GRUIE V DENISA-IOANA</td>
                 <td>Utilizator experimentat</td>
                 <td>6.9</td>
-                <td>NaN</td>
+                <td>
+                </td>
                 <td>6.9</td>
             </tr>
             <tr>
                 <td>GURSCĂ M VLAD</td>
                 <td>Utilizator experimentat</td>
                 <td>8.3</td>
-                <td>NaN</td>
+                <td>
+                </td>
                 <td>8.3</td>
             </tr>
             <tr>
                 <td>HĂLBAC D.I IOANA SILVIA</td>
                 <td>Utilizator experimentat</td>
                 <td>6.2</td>
-                <td>NaN</td>
+                <td>
+                </td>
                 <td>6.2</td>
             </tr>
             <tr>
                 <td>ILE G MADALINA GEORGIANA</td>
                 <td>Utilizator experimentat</td>
                 <td>6.6</td>
-                <td>NaN</td>
+                <td>
+                </td>
                 <td>6.6</td>
             </tr>
             <tr>
                 <td>JURCA T ANDREEA-TEODORA</td>
                 <td>Utilizator experimentat</td>
                 <td>9.3</td>
-                <td>NaN</td>
+                <td>
+                </td>
                 <td>9.3</td>
             </tr>
             <tr>
                 <td>MATIU R.V IULIA DIANA</td>
                 <td>Utilizator experimentat</td>
                 <td>6.6</td>
-                <td>7.3</td>
+                <td>
+                    7.3
+                </td>
                 <td>7.3</td>
             </tr>
             <tr>
                 <td>MIKLO S EDWARD ROBERT</td>
                 <td>Utilizator experimentat</td>
                 <td>7.35</td>
-                <td>NaN</td>
+                <td>
+                </td>
                 <td>7.35</td>
             </tr>
             <tr>
                 <td>MĂRGINEAN P ROBERT</td>
                 <td>Utilizator experimentat</td>
                 <td>6.5</td>
-                <td>NaN</td>
+                <td>
+                </td>
                 <td>6.5</td>
             </tr>
             <tr>
                 <td>PANTIȘ  I ȘERBAN-DORIN</td>
                 <td>Utilizator experimentat</td>
                 <td>8.45</td>
-                <td>NaN</td>
+                <td>
+                </td>
                 <td>8.45</td>
             </tr>
             <tr>
                 <td>TURLE G IULIA MARIA</td>
                 <td>Utilizator experimentat</td>
                 <td>9.4</td>
-                <td>NaN</td>
+                <td>
+                </td>
                 <td>9.4</td>
             </tr>
             <tr>
                 <td>VINTILĂ D.G VLAD ALEXANDRU</td>
                 <td>Utilizator experimentat</td>
                 <td>9</td>
-                <td>NaN</td>
+                <td>
+                </td>
                 <td>9</td>
             </tr>
             <tr>
                 <td>ȚIRBAN A GIULIA-MARIA</td>
                 <td>Utilizator experimentat</td>
                 <td>8.5</td>
-                <td>NaN</td>
+                <td>
+                </td>
                 <td>8.5</td>
             </tr>
     </tbody>
