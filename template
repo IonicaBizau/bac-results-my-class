@@ -36,3 +36,31 @@ Nume | Competențe | Scris | Contestație | Final
         {{/results}}
     </tbody>
 </table>
+
+## Custom
+
+<table>
+    <thead>
+        <tr>
+            <th>Nr. crt.</th>
+            <th>Numele şi prenumele elevilor</th>
+            <th>Nota înainte de contestaţii</th>
+            <th>Nota finală</th>
+        </tr>
+    </thead>
+    <tbody>
+        {{#results}}
+            <tr>
+                <td>{{crt}}.</td>
+                <td>{{name}}</td>
+                <td>{{exams.romanian.written}}</td>
+                <td>
+                    {{#exams.romanian.litigation}}
+                    {{exams.romanian.litigation}}
+                    {{/exams.romanian.litigation}}
+                </td>
+                <td>{{exams.romanian.mark}}</td>
+            </tr>
+        {{/results}}
+    </tbody>
+</table>

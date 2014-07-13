@@ -51,6 +51,7 @@ MongoClient.connect(MONGO_URI, function(err, db) {
 
     var finalData = [];
     var complete = 0;
+    var c = 0;
 
     for (var i = 0; i < surnames.length; ++i) {
         (function (cS) {
@@ -61,15 +62,41 @@ MongoClient.connect(MONGO_URI, function(err, db) {
                 if (err) { throw err; }
                 finalData.push(obj);
                 if (++complete === surnames.length) {
+                    for (var i = 1; i <= finalData.length; ++i) {
+                        finalData[i - 1].crt = i;
+                    }
                     finalData.sort(function (a, b) {
                         return replaceDiacritics(a.name) > replaceDiacritics(b.name) ? 1 : -1;
                     });
                     console.log(Mustache.render(template, {
                         results: finalData
                     }));
-                    db.close();
+
+                    Fs.writeFileSync("./results.md", Mustache.render(template, {
+                        results: finalData
+                    }));
+
+                    if (++c === 2) {
+                        db.close();
+                    }
                 }
             });
         })(surnames[i]);
     }
+
+    db.collection("students").find().toArray(function (err, finalData) {
+        if (err) { throw err; }
+
+        finalData.sort(function (a, b) {
+            return replaceDiacritics(a.name) > replaceDiacritics(b.name) ? 1 : -1;
+        });
+
+        Fs.writeFileSync("./school.md", Mustache.render(template, {
+            results: finalData
+        }));
+
+        if (++c === 2) {
+            db.close();
+        }
+    });
 });
