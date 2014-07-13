@@ -62,12 +62,12 @@ MongoClient.connect(MONGO_URI, function(err, db) {
                 if (err) { throw err; }
                 finalData.push(obj);
                 if (++complete === surnames.length) {
-                    for (var i = 1; i <= finalData.length; ++i) {
-                        finalData[i - 1].crt = i;
-                    }
                     finalData.sort(function (a, b) {
                         return replaceDiacritics(a.name) > replaceDiacritics(b.name) ? 1 : -1;
                     });
+                    for (var i = 1; i <= finalData.length; ++i) {
+                        finalData[i - 1].crt = i;
+                    }
                     console.log(Mustache.render(template, {
                         results: finalData
                     }));
