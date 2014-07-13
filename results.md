@@ -17,13 +17,13 @@ GURSCĂ M VLAD | Utilizator experimentat | 8.3 | NaN | 8.3
 HĂLBAC D.I IOANA SILVIA | Utilizator experimentat | 6.2 | NaN | 6.2
 ILE G MADALINA GEORGIANA | Utilizator experimentat | 6.6 | NaN | 6.6
 JURCA T ANDREEA-TEODORA | Utilizator experimentat | 9.3 | NaN | 9.3
+MĂRGINEAN P ROBERT | Utilizator experimentat | 6.5 | NaN | 6.5
 MATIU R.V IULIA DIANA | Utilizator experimentat | 6.6 | 7.3 | 7.3
 MIKLO S EDWARD ROBERT | Utilizator experimentat | 7.35 | NaN | 7.35
-MĂRGINEAN P ROBERT | Utilizator experimentat | 6.5 | NaN | 6.5
 PANTIȘ  I ȘERBAN-DORIN | Utilizator experimentat | 8.45 | NaN | 8.45
+ȚIRBAN A GIULIA-MARIA | Utilizator experimentat | 8.5 | NaN | 8.5
 TURLE G IULIA MARIA | Utilizator experimentat | 9.4 | NaN | 9.4
 VINTILĂ D.G VLAD ALEXANDRU | Utilizator experimentat | 9 | NaN | 9
-ȚIRBAN A GIULIA-MARIA | Utilizator experimentat | 8.5 | NaN | 8.5
 ```
 
 ## HTML
@@ -153,6 +153,14 @@ VINTILĂ D.G VLAD ALEXANDRU | Utilizator experimentat | 9 | NaN | 9
                 <td>9.3</td>
             </tr>
             <tr>
+                <td>MĂRGINEAN P ROBERT</td>
+                <td>Utilizator experimentat</td>
+                <td>6.5</td>
+                <td>
+                </td>
+                <td>6.5</td>
+            </tr>
+            <tr>
                 <td>MATIU R.V IULIA DIANA</td>
                 <td>Utilizator experimentat</td>
                 <td>6.6</td>
@@ -170,20 +178,20 @@ VINTILĂ D.G VLAD ALEXANDRU | Utilizator experimentat | 9 | NaN | 9
                 <td>7.35</td>
             </tr>
             <tr>
-                <td>MĂRGINEAN P ROBERT</td>
-                <td>Utilizator experimentat</td>
-                <td>6.5</td>
-                <td>
-                </td>
-                <td>6.5</td>
-            </tr>
-            <tr>
                 <td>PANTIȘ  I ȘERBAN-DORIN</td>
                 <td>Utilizator experimentat</td>
                 <td>8.45</td>
                 <td>
                 </td>
                 <td>8.45</td>
+            </tr>
+            <tr>
+                <td>ȚIRBAN A GIULIA-MARIA</td>
+                <td>Utilizator experimentat</td>
+                <td>8.5</td>
+                <td>
+                </td>
+                <td>8.5</td>
             </tr>
             <tr>
                 <td>TURLE G IULIA MARIA</td>
@@ -200,14 +208,6 @@ VINTILĂ D.G VLAD ALEXANDRU | Utilizator experimentat | 9 | NaN | 9
                 <td>
                 </td>
                 <td>9</td>
-            </tr>
-            <tr>
-                <td>ȚIRBAN A GIULIA-MARIA</td>
-                <td>Utilizator experimentat</td>
-                <td>8.5</td>
-                <td>
-                </td>
-                <td>8.5</td>
             </tr>
     </tbody>
 </table>
