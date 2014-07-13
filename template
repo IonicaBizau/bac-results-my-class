@@ -1,0 +1,34 @@
+# Romanian Language
+## Text
+
+```
+Nume | Competențe | Scris | Contestație | Final
+{{#results}}
+{{name}} | {{exams.romanian.skills}} | {{exams.romanian.written}} | {{exams.romanian.litigation}} | {{exams.romanian.mark}}
+{{/results}}
+```
+
+## HTML
+
+<table>
+    <thead>
+        <tr>
+            <th>Nume</th>
+            <th>Competențe</th>
+            <th>Scris</th>
+            <th>Contestație</th>
+            <th>Final</th>
+        </tr>
+    </thead>
+    <tbody>
+        {{#results}}
+            <tr>
+                <td>{{name}}</td>
+                <td>{{exams.romanian.skills}}</td>
+                <td>{{exams.romanian.written}}</td>
+                <td>{{exams.romanian.litigation}}</td>
+                <td>{{exams.romanian.mark}}</td>
+            </tr>
+        {{/results}}
+    </tbody>
+</table>
