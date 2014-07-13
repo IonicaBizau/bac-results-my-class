@@ -26,7 +26,11 @@ Nume | Competențe | Scris | Contestație | Final
                 <td>{{name}}</td>
                 <td>{{exams.romanian.skills}}</td>
                 <td>{{exams.romanian.written}}</td>
-                <td>{{exams.romanian.litigation}}</td>
+                <td>
+                    {{#exams.romanian.litigation}}
+                    {{exams.romanian.litigation}}
+                    {{/exams.romanian.litigation}}
+                </td>
                 <td>{{exams.romanian.mark}}</td>
             </tr>
         {{/results}}

@@ -49,7 +49,6 @@ MongoClient.connect(MONGO_URI, function(err, db) {
                     finalData.sort(function (a, b) {
                         return a.name > b.name ? 1 : -1;
                     });
-                    debugger
                     console.log(Mustache.render(template, {
                         results: finalData
                     }));
