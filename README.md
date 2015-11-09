@@ -1,25 +1,30 @@
-# bac-results-my-class
+# bac-results-my-class [![Support this project][donate-now]][paypal-donations]
+
 A list with my schoolmate results at BAC exams.
 
 ## Installation
-Run the following commands to download and install the application:
 
 ```sh
-$ git clone https://github.com/IonicaBizau/bac-results-my-class.git bac-results-my-class
-$ cd bac-results-my-class
-$ npm install
+$ npm i -g bac-results-my-class
 ```
 
-## How to contribute
+## Documentation
 
-1. File an issue in the repository, using the bug tracker, describing the
-   contribution you'd like to make. This will help us to get you started on the
-   right foot.
-2. Fork the project in your account and create a new branch:
-   `your-great-feature`.
-3. Commit your changes in that branch.
-4. Open a pull request, and reference the initial issue in the pull request
-   message.
+## How to contribute
+Have an idea? Found a bug? See [how to contribute][contributing].
+
+## Where is this library used?
+If you are using this library in one of your projects, add it in this list. :sparkles:
 
 ## License
-See the [LICENSE](./LICENSE) file.
+
+[KINDLY][license] © [Ionică Bizău][website]
+
+[license]: http://ionicabizau.github.io/kindly-license/?author=Ionic%C4%83%20Biz%C4%83u%20%3Cbizauionica@gmail.com%3E&year=2014
+
+[website]: http://ionicabizau.net
+[paypal-donations]: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RVXDDLKKLQRJW
+[donate-now]: http://i.imgur.com/6cMbHOC.png
+
+[contributing]: /CONTRIBUTING.md
+[docs]: /DOCUMENTATION.md
