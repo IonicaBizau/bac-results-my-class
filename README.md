@@ -5,7 +5,7 @@ A list with my schoolmate results at BAC exams.
 ## Installation
 
 ```sh
-$ npm i -g bac-results-my-class
+$ npm i bac-results-my-class
 ```
 
 ## Documentation
