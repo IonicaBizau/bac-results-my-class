@@ -1,13 +1,13 @@
 {
   "name": "bac-results-my-class",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A list with my schoolmate results at BAC exams.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
-  "license": "KINDLY",
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/IonicaBizau/bac-results-my-class.git"
