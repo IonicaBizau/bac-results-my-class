@@ -1,6 +1,6 @@
 {
   "name": "bac-results-my-class",
-  "version": "1.2.4",
+  "version": "1.2.5",
   "description": "A list with my schoolmate results at BAC exams.",
   "main": "index.js",
   "scripts": {
@@ -25,6 +25,7 @@
     "bin/",
     "app/",
     "lib/",
+    "build/",
     "dist/",
     "src/",
     "resources/",
