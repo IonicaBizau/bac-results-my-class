@@ -1,12 +1,12 @@
 {
   "name": "bac-results-my-class",
-  "version": "1.2.5",
+  "version": "1.2.6",
   "description": "A list with my schoolmate results at BAC exams.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "author": "Ionică Bizău <bizauionica@gmail.com> (https://ionicabizau.net)",
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -25,12 +25,11 @@
     "bin/",
     "app/",
     "lib/",
-    "build/",
     "dist/",
     "src/",
+    "scripts/",
     "resources/",
     "menu/",
-    "scripts/",
     "cli.js",
     "index.js"
   ]
