@@ -10,7 +10,11 @@
 ## :cloud: Installation
 
 ```sh
-$ npm i --save bac-results-my-class
+# Using npm
+npm install --save bac-results-my-class
+
+# Using yarn
+yarn add bac-results-my-class
 ```
 
 
